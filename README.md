@@ -7,8 +7,8 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 ```javascript
 const jhon = {
     pronouns: "He" | "Him",
-    code: ["Python", "Java", "C++", "Javascript", "HTML", "CSS","MySQL", "R"],
-    askMeAbout: ["WebDev", "Tech", "Gaming"],
+    code: ["Python", "Java", "C++", "Javascript", "HTML", "CSS", "PHP", "MySQL", "R"],
+    askMeAbout: ["Student", "Fullstack"],
     technologies: {
         backEnd: {
             js: ["Node"],
