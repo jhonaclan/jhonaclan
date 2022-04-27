@@ -1,7 +1,10 @@
-## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## >Hello world! 
+<img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/dev.gif" width="60px">
 
 I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** with a Minor in **Mathematics** and will graduate in mid-2023.
 
+
+<!---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -15,11 +18,12 @@ const jhon = {
         },
         devOps: ["AWS"],
         databases: ["MySql", "AWS S3"],
-        misc: ["Firebase""php"]
+        misc: ["Firebase","php"]
     },
-    currentFocus: "Machine Learning and AI",
+    currentFocus: "",
 };
 ```
+-->
 
 ## 🛠️ Skills
 
@@ -34,6 +38,7 @@ const jhon = {
 
 ### Front-End Development
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
