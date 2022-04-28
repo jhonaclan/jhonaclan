@@ -34,7 +34,12 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## Github Stats
-![toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+![toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonaclan&count_private=true&layout=compact&theme=dracula)
+
+*includes stats from private repos
+<!--
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jhonaclan&layout=compact)
+-->
 
 ## 🖥️ Workspace Setup
 ![ryzen9](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
