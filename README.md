@@ -1,29 +1,9 @@
 ## >Hello world! 
-<img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/dev.gif" width="60px">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="60px">
 
 I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** with a Minor in **Mathematics** and will graduate in mid-2023.
 
-
-<!---
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const jhon = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Java", "C++", "Javascript", "HTML", "CSS", "PHP", "MySQL", "R"],
-    askMeAbout: ["Student", "Fullstack"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        devOps: ["AWS"],
-        databases: ["MySql", "AWS S3"],
-        misc: ["Firebase","php"]
-    },
-    currentFocus: "",
-};
-```
--->
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="60px">
 
 ## 🛠️ Skills
 
@@ -63,5 +43,5 @@ const jhon = {
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## 🔗 Links
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/jhonaclan/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jhonaclan/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonaclan/)
