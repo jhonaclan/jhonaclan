@@ -47,3 +47,5 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 ## 🔗 Links
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jhonaclan/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonaclan/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jhonaclan)
