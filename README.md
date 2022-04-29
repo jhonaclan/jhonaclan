@@ -8,9 +8,10 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 ## 🛠️ Skills
 
 ### Languages
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,13 +34,9 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## Github Stats
-![toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonaclan&count_private=true&layout=compact&theme=dracula)
-
-*includes stats from private repos
-<!--
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jhonaclan&layout=compact)
--->
+## ⚡ Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jhonaclan&show_icons=true&count_private=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonaclan&layout=compact&count_private=true&theme=dracula" />
 
 ## 🖥️ Workspace Setup
 ![ryzen9](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
