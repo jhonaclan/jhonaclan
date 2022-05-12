@@ -1,6 +1,10 @@
 ## >Hello world! 
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="60px">
+I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** with a Minor in **Mathematics** and will graduate in mid-2023.
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="60px">
 
-![Metrics](https://metrics.lecoq.io/jhonaclan?template=classic&languages=1&isocalendar=1&introduction=1&base.indepth=false&isocalendar.duration=full-year&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FLos_Angeles)
+![Metrics](https://metrics.lecoq.io/jhonaclan?template=classic&base.indepth=true&base.header=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&base.indepth=true&isocalendar.duration=full-year&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FLos_Angeles)
+
 
 ## 🛠️ Skills
 
@@ -30,10 +34,6 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-## ⚡ Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=jhonaclan&show_icons=true&count_private=true&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonaclan&layout=compact&count_private=true&theme=dracula" />
 
 ## 🖥️ Workspace Setup
 ![ryzen9](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
