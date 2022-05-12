@@ -5,8 +5,10 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 
 ![Metrics](https://metrics.lecoq.io/jhonaclan?template=classic&base.header=0&base.activity=0&base.community=0&isocalendar=1&languages=1&achievements=1&base.indepth=false&isocalendar.duration=full-year&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=America%2FLos_Angeles)
 
-## 🛠️ Skills
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
+### 🛠️ Skills
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="60px">
 
 ### Languages
@@ -36,13 +38,17 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## 🖥️ Workspace Setup
+---
+
+### 🖥️ Workspace Setup
 ![ryzen9](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![amd6700xt](https://img.shields.io/badge/AMD-Radeon_RX_6700-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## 🔗 Links
+---
+
+### 🔗 Links
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jhonaclan/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonaclan/)
 
