@@ -1,9 +1,6 @@
 ## >Hello world! 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="60px">
 
-I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** with a Minor in **Mathematics** and will graduate in mid-2023.
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="60px">
+![Metrics](https://metrics.lecoq.io/jhonaclan?template=classic&languages=1&isocalendar=1&introduction=1&base.indepth=false&isocalendar.duration=full-year&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FLos_Angeles)
 
 ## 🛠️ Skills
 
