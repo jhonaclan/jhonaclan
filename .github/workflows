@@ -25,10 +25,10 @@ jobs:
           # Options
           user: jhonaclan
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, metadata
+          base_indepth: yes
           config_timezone: America/Los_Angeles
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          plugin_base_indepth: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
