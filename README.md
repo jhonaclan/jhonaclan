@@ -3,7 +3,7 @@
 
 I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** with a Minor in **Mathematics** and will graduate in mid-2023.
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
