@@ -5,7 +5,11 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
+
 ### 🛠️ Skills
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="60px">
 
