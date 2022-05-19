@@ -106,7 +106,6 @@
                                 C++
                             </div>
                             <small>
-                                <div>283 kB</div>
                                 <div>68.4%</div>
                             </small>
                         </div>
@@ -118,7 +117,6 @@
                                 Assembly
                             </div>
                             <small>
-                                <div>9.78 kB</div>
                                 <div>2.36%</div>
                             </small>
                         </div>
@@ -130,7 +128,6 @@
                                 C#
                             </div>
                             <small>
-                                <div>3.91 kB</div>
                                 <div>0.94%</div>
                             </small>
                         </div>
@@ -142,7 +139,6 @@
                                 HTML
                             </div>
                             <small>
-                                <div>664 bytes</div>
                                 <div>0.16%</div>
                             </small>
                         </div>
@@ -156,7 +152,6 @@
                                 Java
                             </div>
                             <small>
-                                <div>107 kB</div>
                                 <div>25.82%</div>
                             </small>
                         </div>
@@ -168,7 +163,6 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>6.47 kB</div>
                                 <div>1.56%</div>
                             </small>
                         </div>
@@ -180,7 +174,6 @@
                                 C
                             </div>
                             <small>
-                                <div>2.73 kB</div>
                                 <div>0.66%</div>
                             </small>
                         </div>
@@ -192,7 +185,6 @@
                                 CSS
                             </div>
                             <small>
-                                <div>462 bytes</div>
                                 <div>0.11%</div>
                             </small>
                         </div>
@@ -750,7 +742,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2022, 22:42:45 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 23:18:14 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
