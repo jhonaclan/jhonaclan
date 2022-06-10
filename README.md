@@ -1,5 +1,5 @@
 ## >Hello world! 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="60px">
+<!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="20px"> -->
 
 I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** with a Minor in **Mathematics** and will graduate in mid-2023.
 
@@ -11,7 +11,7 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 ---
 
 ### 🛠️ Skills
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="60px">
+<!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="20px"> -->
 
 ### Languages
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,7 +23,7 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Front-End Development
+<!-- ### Front-End Development
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -46,10 +46,9 @@ I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** wi
 ![ryzen9](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![amd6700xt](https://img.shields.io/badge/AMD-Radeon_RX_6700-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) -->
 
 ---
-
 ### 🔗 Links
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jhonaclan/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonaclan/)
