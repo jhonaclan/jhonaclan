@@ -1,7 +1,7 @@
 ## >Hello world! 
 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="20px"> -->
 
-I'm Jhon Aclan and I'm currently pursuing my Bachelor in **Computer Science** with a Minor in **Mathematics** and will graduate in 2024.
+I'm Jhon Aclan and I'm currently pugraduated December 2023 with my Bachelor in **Computer Science** with a Minor in **Mathematics**.
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
 
