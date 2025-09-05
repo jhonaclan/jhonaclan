@@ -87,14 +87,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.8834421861379" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="362.8834421861379" y="0" width="53.63964942522597" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="416.5230916113639" y="0" width="20.245923257745748" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="436.76901486910964" y="0" width="12.788559897525813" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.5575747666354" y="0" width="4.679985900761409" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.23756066739685" y="0" width="2.110292854989002" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="456.34785352238583" y="0" width="1.847805456799719" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="458.19565897918557" y="0" width="1.8043410208144528" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.6398621566797" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="362.6398621566797" y="0" width="53.60364462073997" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="416.2435067774197" y="0" width="20.232333487559984" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="436.4758402649797" y="0" width="12.77997576985716" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.25581603483687" y="0" width="4.676844530913549" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="453.9326605657504" y="0" width="2.4176444047952854" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="456.35030497054566" y="0" width="1.8465651452966962" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="458.1968701158424" y="0" width="1.8031298841575838" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -106,7 +106,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>78.89%</div>
+                                <div>78.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -152,7 +152,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>11.66%</div>
+                                <div>11.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -174,7 +174,7 @@
                                 PowerShell
                             </div>
                             <small>
-                                <div>0.46%</div>
+                                <div>0.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -265,7 +265,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2025, 11:32:02 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2025, 12:18:20 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
